@@ -1,0 +1,3 @@
+[submodule "SD-ComfyUI"]
+	path = SD-ComfyUI
+	url = https://github.com/comfyanonymous/ComfyUI
